@@ -13,3 +13,7 @@
   color: aliceblue;
   margin-left: 10px;
 }
+.modal-header {
+  background-color: orange;
+  color: white;
+}
